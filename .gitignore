@@ -1,0 +1,8 @@
+# Sensitive information
+.env
+
+# Logs
+*.log 
+
+# DS_Store
+.DS_Store
